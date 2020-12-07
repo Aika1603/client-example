@@ -1,8 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-define('APP_NAME', 'SIAKAD UNSIKA');
-define('APP_CODE', 'siakad'); //change this when production
-define('ENDPOINT_AUTH_SSO', 'http://localhost/sso-unsika/auth'); //change this when production
+define('APP_NAME', 'Sistem E-Office Unsika');
+define('APP_CODE', 'eoffice'); //gunakan app_code masing-masing
+define('ENDPOINT_AUTH_SSO', 'https://sso.unsika.ac.id/auth/'); //untuk uji coba boleh ke https://sso.saepulasep.my.id/auth/
 
 /*
 |--------------------------------------------------------------------------
